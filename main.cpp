@@ -1,7 +1,7 @@
 #include <iostream>
 #include "ListaPuntatori.cpp"
 #include "Pila.cpp"
-#include "Lista.cpp"
+#include "Coda.cpp"
 
 int main() {
     //Operazioni su una pila
