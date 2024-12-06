@@ -12,8 +12,7 @@ int main() {
     pila1.push(54);
 
     std::cout << "Elemento in cima alla lista: " << pila1.top() << std::endl;
-    std::cout << "Eliminazione dell'elemento in cima alla lista..." << std:: endl;
-    pila1.pop();
+    std::cout << "Eliminazione dell'elemento in cima alla lista: " << pila1.pop() << std:: endl;
     std::cout << "Elemento in cima alla lista: " << pila1.top() << std::endl;
     std::cout << "Lunghezza della lista: " << pila1.size() << std::endl;
 
